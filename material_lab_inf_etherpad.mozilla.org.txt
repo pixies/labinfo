@@ -1,27 +1,27 @@
 ATIVIDADE (Levantamento da Bibliografico):
 Tema principal da pesquisa "A evoluçao da web nos ultimos 20 anos".
 Micro temas a serem explorados:
-  1  - Inteligencia de Negocios
-  2  - Analise de Dados
-  3  - Sistemas de Busca
-  4  - Redes Sociais
-  5  - Desenvolvimento
-  6  - Contabilidade
-  7  - Infraestrutura
-  8  - Terceiro Setor
-  9  - Marketing
-  10  - Empreendedorismo
-  11  - Tipos de Profissionais na web
-  12  - Nomades Digitais
-  13 - Economia Criativa
-  14  - Robotica
-  15  - Internet das Coisas
-  16  - Machine learn
-  17  - Contribuiçoes do Software Livre na web
-  18  - GNU/Linux
-  18  - Inovaçao
-  19  - Linguagens
-  20  - Web Semantica
+  1  -  Inteligencia de Negocios
+  2  -  Analise de DadosYtalo dos Teclados
+  3  -  sistemas de busca(Izaquiel/Henrique)
+  4  -  Redes Sociais Damiao /nazaré
+  5  -  Desenvolvimento(Breno/Victor)
+  6  -  Contabilidade 
+  7  -  Infraestruturachrystian
+  8  -  Terceiro Setor
+  9  -  Marketing(Ary/Luan)
+  10 -  Empreendedorismo
+  11 -  Tipos de Profissionais na web wesley natanael
+  12 -  Nomades Digitais
+  13 -  Economia Criativa
+  14 -  Robotica
+  15 -  Internet das Coisas (Mateus/Diogo)(Bruno/Luiz Henrique)
+  16 -  Machine learn
+  17 -  Contribuiçoes do Software Livre na web(Anderson/Danilo) 
+  18 -  GNU/Linux (Jony/Phillip)
+  18 -  Inovaçao
+  19 -  Linguagens
+  20 -  Web Semantica (José Diogo / Wesley)
   
 
 A atividade pode ser em dupla.
@@ -35,6 +35,8 @@ Usar modelo SBC
 
 TEMPLATE DE ARTIGO SBC: 
 http://www.sbc.org.br/index.php?option=com_jdownloads&Itemid=195&task=view.download&cid=38
+Documentação GIT(Hub)
+http://rogerdudler.github.io/git-guide/index.pt_BR.html
 
 Google Academico
 https://scholar.google.com.br
@@ -42,5 +44,30 @@ https://scholar.google.com.br
 
 REFERENCIAS BIBLIOGRAFICAS:
 http://fio.edu.br/manualtcc/co/6_Referencial_Teorico.html
+
+
+LISTA COM LOGINS DO GITHUB:
+
+Nome:                         Login:
+Cleyton Fábio             pixies
+Luan Aquino               luanmaquino 
+Breno Pinheiro            dapine
+José Diogo                diogo
+Izaquiel Queiroz          kqueiroz
+Ary                       FiiDosCabruncos
+Odair Bismarck            besourogt
+Thiago José               thiagojoseSS
+Maria Nazaré             nazaremagalhaes               
+Damião  Eleoterio           damiaoceleoterio
+Bruno Leonardo            Muskit0
+                                                                        
+Jony Viana                JonyViana
+Andre                     nenesys
+Phillip                   Gustavoss75
+Werisson Clayderman        Werisson
+Ivo                       ivo-junior
+Victor lucas               Kiljaeden
+wesley natanael           wesleynatanael
+
 
 
