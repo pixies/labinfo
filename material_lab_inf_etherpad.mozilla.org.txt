@@ -1,0 +1,46 @@
+ATIVIDADE (Levantamento da Bibliografico):
+Tema principal da pesquisa "A evoluçao da web nos ultimos 20 anos".
+Micro temas a serem explorados:
+  1  - Inteligencia de Negocios
+  2  - Analise de Dados
+  3  - Sistemas de Busca
+  4  - Redes Sociais
+  5  - Desenvolvimento
+  6  - Contabilidade
+  7  - Infraestrutura
+  8  - Terceiro Setor
+  9  - Marketing
+  10  - Empreendedorismo
+  11  - Tipos de Profissionais na web
+  12  - Nomades Digitais
+  13 - Economia Criativa
+  14  - Robotica
+  15  - Internet das Coisas
+  16  - Machine learn
+  17  - Contribuiçoes do Software Livre na web
+  18  - GNU/Linux
+  18  - Inovaçao
+  19  - Linguagens
+  20  - Web Semantica
+  
+
+A atividade pode ser em dupla.
+Para definir seu tema coloque o nome da equipe ao lado do micro-tema
+Ex:
+1  - Inteligencia de Negocios (Joao e Maria)
+
+data de entrega:
+9 de Junho de 2015
+Usar modelo SBC
+
+TEMPLATE DE ARTIGO SBC: 
+http://www.sbc.org.br/index.php?option=com_jdownloads&Itemid=195&task=view.download&cid=38
+
+Google Academico
+https://scholar.google.com.br
+
+
+REFERENCIAS BIBLIOGRAFICAS:
+http://fio.edu.br/manualtcc/co/6_Referencial_Teorico.html
+
+
